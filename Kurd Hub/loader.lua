@@ -14,7 +14,7 @@ wait(1)
 loadstring(game:HttpGet(link..v))()
 end
 
-local startergui= game:GetService("StarterGui")
+local startergui = game:GetService("StarterGui")
 
 startergui:SetCore("SendNotification", {
     Title = "LEAKEDDDD",      
