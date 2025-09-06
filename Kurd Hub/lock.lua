@@ -56,7 +56,7 @@ toggleButton.MouseButton1Click:Connect(function()
     if locked then
         toggleButton.BackgroundColor3 = Color3.fromRGB(0,255,0)
         lockCharacter()
-        sendNotification("jack 827", "Auto-unlock for Steal", 5)
+        sendNotification("wrestonmain", "Auto-unlock for Steal", 5)
     else
         toggleButton.BackgroundColor3 = Color3.fromRGB(255,0,0)
         unlockCharacter()
