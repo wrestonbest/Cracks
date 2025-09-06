@@ -1,9 +1,6 @@
 local link = "https://raw.githubusercontent.com/wrestonbest/Cracks/refs/heads/main/Kurd%20Hub/"
 local files = {
     "BaseEsp.lua",
-    "FinderScript.lua",
-    "PetFinder.lua",
-    "PetFinder1.lua",
     "Spp2.lua",
     "kickSah.lua",
     "lock.lua",
